@@ -1,51 +1,60 @@
-# 🚗 Road of the Dead  
+# 🏰 Castle Defender  
 
 ## 🎮 Descrição do Jogo e Controles  
 
-Este é um jogo desenvolvido na Unity que possui um **mapa aberto**, onde o jogador controla um carro e deve **eliminar os zumbis antes que eles destruam o veículo**.  
+**Castle Defender** é um jogo desenvolvido na **Unity**, ambientado em uma **ilha mágica** onde o jogador assume o papel de uma **guerreira lendária** encarregada de **proteger o castelo do rei** contra hordas de monstros que surgem de portais misteriosos.  
+
+Seu objetivo é **derrotar todos os inimigos** e **impedir que o castelo seja destruído**, sobrevivendo o máximo possível.  
 
 **Controles:**  
-
-- **W / S / A / D**: Movimentação do carro  
-- **Mouse**: Controle da câmera  
-- **Esc**: Abrir menu principal  
-- **Q**: Alternar entre **dia e noite**  
-- **E**: Ligar/desligar o **farol do carro**  
-- **1**: Câmera em **3ª pessoa**  
-- **2**: Câmera **interna (cockpit)**  
-- **3**: Câmera **na roda**  
+- **W / S / A / D** → Movimentação da guerreira  
+- **Mouse** → Controle da câmera e direção dos ataques  
+- **Botão esquerdo do mouse** → Ataque com a espada mágica  
+- **Espaço (Space)** → Pular  
+- **Esc** → Menu principal  
 
 ---
 
 ## 📖 História do Jogo  
 
-Em uma cidade devastada por zumbis, seu único meio de sobrevivência é um carro.  
-Você deve dirigir pelas ruas e **eliminar os zumbis** que tentam destruir o veículo.  
-Gerencie sua estratégia e sobreviva o máximo possível enquanto enfrenta hordas implacáveis.  
+Em uma ilha mágica cercada por mistérios e forças antigas, repousa o **Castelo do Rei**, um símbolo de paz e poder.  
+Mas em um dia sombrio, **portais se abriram no coração da ilha**, liberando **golens**, **esqueletos** e **lagartos gigantes** — criaturas que buscam destruir o castelo e dominar o reino.  
+
+Para deter essa ameaça, o rei convocou sua **guerreira mais poderosa**, portadora de uma **espada encantada**, capaz de canalizar a energia mágica da própria ilha.  
+
+Agora, cabe a você **defender o castelo**, **enfrentar as ondas de monstros** e **impedir que o reino caia nas trevas**.  
 
 ---
 
 ## 🕹️ Gameplay  
 
-Veja abaixo um vídeo demonstrativo do jogo em execução:  
+Confira abaixo o vídeo de demonstração do jogo em execução:  
 
-![Gameplay](Imagens/gameplay.gif) 
+![Gameplay](Imagens/gameplay.gif)  
 
 ---
 
 ## 📸 Prints do Jogo  
 
-### Cidade  
-![Cena da Cidade](Imagens/mapa.png)  
+### 🏝️🏰 Ilha Mágica e o Castelo do Rei
+![Mapa](Imagens/mapa.jpg)  
 
-### Carro  
-![Carro](Imagens/carro.png)  
+### ⚔️ Guerreira  
+![Guerreira](Imagens/personagem.jpg)  
 
-### Zumbis  
-![Zumbis](Imagens/zumbi.png)  
+## 👾 Inimigos  
+
+### 🪨 Golem  
+![Golem](Imagens/golem.jpg)  
+
+### 💀 Esqueleto  
+![Esqueleto](Imagens/esqueleto.jpg)  
+
+### 🦎 Lagarto Gigante  
+![Lagarto Gigante](Imagens/lagarto.jpg)  
 
 ---
 
 ## 📬 Contato  
 
-👤 **Caio Taveira**  
+👤 **Caio Taveira**
