@@ -44,14 +44,9 @@ Confira abaixo o vídeo de demonstração do jogo em execução:
 
 ## 👾 Inimigos  
 
-### 🪨 Golem  
-![Golem](Imagens/golem.jpg)  
-
-### 💀 Esqueleto  
-![Esqueleto](Imagens/caveira.jpg)  
-
-### 🦎 Lagarto Gigante  
-![Lagarto Gigante](Imagens/lagarto.jpg)  
+| 🪨 **Golem** | 💀 **Esqueleto** | 🦎 **Lagarto Gigante** |
+|:-------------:|:----------------:|:----------------------:|
+| ![Golem](Imagens/golem.jpg) | ![Esqueleto](Imagens/caveira.jpg) | ![Lagarto Gigante](Imagens/lagarto.jpg) |
 
 ---
 
