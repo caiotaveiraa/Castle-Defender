@@ -11,7 +11,6 @@ Seu objetivo é **derrotar todos os inimigos** e **impedir que o castelo seja de
 - **Mouse** → Controle da câmera e direção dos ataques  
 - **Botão esquerdo do mouse** → Ataque com a espada mágica  
 - **Espaço (Space)** → Pular  
-- **Esc** → Menu principal  
 
 ---
 
