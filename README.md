@@ -48,7 +48,7 @@ Confira abaixo o vídeo de demonstração do jogo em execução:
 ![Golem](Imagens/golem.jpg)  
 
 ### 💀 Esqueleto  
-![Esqueleto](Imagens/esqueleto.jpg)  
+![Esqueleto](Imagens/caveira.jpg)  
 
 ### 🦎 Lagarto Gigante  
 ![Lagarto Gigante](Imagens/lagarto.jpg)  
